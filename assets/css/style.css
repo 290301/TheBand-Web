@@ -146,7 +146,7 @@ html{
 #slider {
     padding-top:50%;
     margin-top:46px;
-    background:url('http://127.0.0.1:5500/img/slider.jpg') top center / cover no-repeat;
+    background:url('../../img/slider.jpg') top center / cover no-repeat;
     position:relative;
 }
  
